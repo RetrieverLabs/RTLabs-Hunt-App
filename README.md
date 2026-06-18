@@ -6,7 +6,7 @@ A simple web tool that turns raw security indicators (IOCs) into structured thre
 
 ## 🌐 Live Tool
 
-👉 [https://your-streamlit-app-url-here](https://retrieverlabs.streamlit.app/)
+👉 [https://retrieverlabs.streamlit.app](https://retrieverlabs.streamlit.app/)
 
 Use it directly in your browser — no install needed.
 
